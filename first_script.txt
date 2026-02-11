@@ -1,2 +1,3 @@
 Voici l'explication de ma pipeline
 C'est une super pipeline
+Voici le changement fait en ligne 
